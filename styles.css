@@ -1,0 +1,74 @@
+html, body {
+    margin: 0;
+    font-family: 'Noto Serif TC', serif;
+}
+
+.title{
+    font-family: 'Sacramento', cursive;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-top: 60px;
+    font-size: 3rem;
+}
+
+
+h2 {
+    font-family: 'Sacramento', cursive;
+}
+
+.arrow-down {
+    width:0;
+    border-top:120px solid red;
+    border-left:60px solid white;
+    border-right:60px solid white;
+}
+
+
+.desktopImg{
+    max-width: 200px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.about_section{
+    background-color: #4d5164;
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+
+.educatiom_section{
+    color: white;
+    padding: 20px;
+    text-align: center;
+    background-color: #cc7a7d;
+}
+
+.header_container{
+    text-align: center;
+    background-color: #c2dce1;
+    padding: 20px;
+}
+
+.footer_container{
+    background-color: darkred;
+}
+
+.profile_icon{
+    width: 240px;
+    border-radius: 110px;
+}
+
+.m-b-0{
+    margin-bottom: 0;
+}
+
+.clr_bright_hpy{
+    color: #4ABDAC;
+}
+.clr_bright_red {
+
+}
+.about_me{
+    font-size: 18px;
+}
